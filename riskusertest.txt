@@ -1,0 +1,4 @@
+"AadClientId": "8fe80fe8-df1d-4ecc-9cd2-0d74f72e65f7",
+ "AadSecret": "60ce9696-6f3d-44b4-bf45-592f48d715b4",
+  "AadTenantDomain": "megazonemdw.onmicrosoft.com",
+  "AadTenantId": "00f90998-2cad-4749-9e36-0a24f7bc401d",
